@@ -51,7 +51,7 @@ WbspsCA
 
 ```json
 {
- "file": "Modules/POWER/M648/PHOTOS/wbsps - promo - m648 power supply - 002.jpg",
+ "file": "Modules/POWER/M648/MANUALS/wbsps - promo - m648 power supply - 002.jpg",
  "sha256": "da4fe11e488c874558f5eff4bf3569fbc97e527d2b59f3c8dcc5dbf549a2c0df",
  "kind": "module",
  "models": [

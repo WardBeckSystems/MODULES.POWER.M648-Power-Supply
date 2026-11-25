@@ -16,7 +16,7 @@
    "polarity": null,
    "confidence": "low",
    "read_from": "schematic",
-   "file": "Modules/POWER/M648/PHOTOS/1970 - M648 - WBS test procedures 1.jpeg",
+   "file": "Modules/POWER/M648/MANUALS/1970 - M648 - WBS test procedures 1.jpeg",
    "page": 1
   },
   {
@@ -35,6 +35,6 @@
  "power": [],
  "sources": [
   "Modules/POWER/M648/MANUALS/1970 - M648 - P006 - 3-2.jpg",
-  "Modules/POWER/M648/PHOTOS/1970 - M648 - WBS test procedures 1.jpeg"
+  "Modules/POWER/M648/MANUALS/1970 - M648 - WBS test procedures 1.jpeg"
  ]
 }

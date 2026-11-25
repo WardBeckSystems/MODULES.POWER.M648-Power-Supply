@@ -59,7 +59,7 @@ Convection Ccoled
 
 ```json
 {
- "file": "Modules/POWER/M648/PHOTOS/1970 - M648 - wbsps - module - m648 power supply - front.jpg",
+ "file": "Modules/POWER/M648/MANUALS/1970 - M648 - wbsps - module - m648 power supply - front.jpg",
  "sha256": "87efd4f9cf9578ce270229fba216be075af6d54f69507b9996b7d42122f220de",
  "kind": "module",
  "models": [

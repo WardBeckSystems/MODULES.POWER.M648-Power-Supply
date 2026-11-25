@@ -75,7 +75,7 @@ of
 
 ```json
 {
- "file": "Modules/POWER/M648/PHOTOS/1970 - M648 - WBS test procedures 3.jpeg",
+ "file": "Modules/POWER/M648/MANUALS/1970 - M648 - WBS test procedures 3.jpeg",
  "sha256": "8fdf2769d8e6e5a2ad173c60cafaf74d6f23b87e5925a6fb2caf6d0a22e476b6",
  "kind": "module",
  "models": [

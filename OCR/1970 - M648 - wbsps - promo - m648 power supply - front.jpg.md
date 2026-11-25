@@ -67,7 +67,7 @@ Convection cooled
 
 ```json
 {
- "file": "Modules/POWER/M648/PHOTOS/1970 - M648 - wbsps - promo - m648 power supply - front.jpg",
+ "file": "Modules/POWER/M648/MANUALS/1970 - M648 - wbsps - promo - m648 power supply - front.jpg",
  "sha256": "415c8a18ad8b34a3a4f783f2f5e8637777496d39aefed702084620eebdf84f76",
  "kind": "module",
  "models": [

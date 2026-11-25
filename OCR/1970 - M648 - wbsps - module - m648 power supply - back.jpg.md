@@ -49,7 +49,7 @@ Loec
 
 ```json
 {
- "file": "Modules/POWER/M648/PHOTOS/1970 - M648 - wbsps - module - m648 power supply - back.jpg",
+ "file": "Modules/POWER/M648/MANUALS/1970 - M648 - wbsps - module - m648 power supply - back.jpg",
  "sha256": "cf69fb28a6b751e1379fe9eae6d2fff584fc0fccf1a07657377cea2aa4b81d8f",
  "kind": "module",
  "models": [

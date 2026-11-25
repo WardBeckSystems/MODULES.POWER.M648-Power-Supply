@@ -72,7 +72,7 @@ WBS
 
 ```json
 {
- "file": "Modules/POWER/M648/MECHANICAL/19xx - M648 - DOC - wbsps - module - mf6 mounting frame - back.jpg",
+ "file": "Modules/POWER/M648/MANUALS/19xx - M648 - DOC - wbsps - module - mf6 mounting frame - back.jpg",
  "sha256": "66fc7daa46503049b826b2aa34a893df6ca41934fa3c51286ec2130a5b78624a",
  "kind": "doc",
  "models": [

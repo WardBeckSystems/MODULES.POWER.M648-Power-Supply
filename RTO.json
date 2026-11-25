@@ -1,0 +1,40 @@
+{
+ "code": "M648",
+ "connector": "RTO-144",
+ "type": "Power Supply",
+ "series": null,
+ "contacts": "7 contacts (P1), 10 contacts (P2)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "7",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/POWER/M648/PHOTOS/1970 - M648 - WBS test procedures 1.jpeg",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "SHIELD",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/POWER/M648/MANUALS/1970 - M648 - P006 - 3-2.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/POWER/M648/MANUALS/1970 - M648 - P006 - 3-2.jpg",
+  "Modules/POWER/M648/PHOTOS/1970 - M648 - WBS test procedures 1.jpeg"
+ ]
+}

@@ -34,7 +34,7 @@ M648 power supply schematic.
 - **Title block:** (341, 29)–(432, 46) mm: WBS WARD-BECK ByBTeMB
 - **Wiring (first pass):** 49 connected wire groups from 251 runs; labelled ends: 985 mm → C4, 047, 400, 2800/100; 259 mm → 470/40, 113,14/; 145 mm → 470/40; 73 mm → 400, 0.1/; 58 mm → 400, RD
 
-Every curve, box, word and wire group: [19xx - 648-02-002 - POWER SUPPLY SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20648-02-002%20-%20POWER%20SUPPLY%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 648-02-002 - POWER SUPPLY SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 648-02-002 - POWER SUPPLY SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20648-02-002%20-%20POWER%20SUPPLY%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 648-02-002 - POWER SUPPLY SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

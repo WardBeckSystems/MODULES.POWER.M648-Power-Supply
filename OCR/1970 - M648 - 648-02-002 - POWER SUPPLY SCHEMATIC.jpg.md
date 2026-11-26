@@ -23,7 +23,7 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Title block:** (341, 29)–(432, 46) mm: WBS WARD-BECK ByBteMB
 - **Wiring (first pass):** 50 connected wire groups from 248 runs; labelled ends: 985 mm → C4, 047, 400, 2800/100; 259 mm → 470/40, 113,14/; 145 mm → 470/40; 78 mm → 400, 0.1/; 58 mm → 400, RD
 
-Every curve, box, word and wire group: [1970 - M648 - 648-02-002 - POWER SUPPLY SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20648-02-002%20-%20POWER%20SUPPLY%20SCHEMATIC%20(traced).json) (the CAD file: `1970 - M648 - 648-02-002 - POWER SUPPLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M648 - 648-02-002 - POWER SUPPLY SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20648-02-002%20-%20POWER%20SUPPLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1970 - M648 - 648-02-002 - POWER SUPPLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

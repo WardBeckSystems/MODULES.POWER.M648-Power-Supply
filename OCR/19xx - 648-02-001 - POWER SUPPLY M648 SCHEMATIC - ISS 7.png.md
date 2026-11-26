@@ -34,7 +34,7 @@ Schematic of the M648 power supply with regulator card.
 - **Title block:** (302, 37)–(390, 57) mm: WARD BECK SYSTEMS LTD
 - **Wiring (first pass):** 99 connected wire groups from 554 runs; labelled ends: 313 mm → 33 jul6b, 6 WACCR2, oiFied, 26/70; 252 mm → 470/35; 132 mm → IN5404 X 4; 130 mm → P2, +24V; 125 mm → R2, R4
 
-Every curve, box, word and wire group: [19xx - 648-02-001 - POWER SUPPLY M648 SCHEMATIC - ISS 7 (traced).json](../SCHEMATICS/19xx%20-%20648-02-001%20-%20POWER%20SUPPLY%20M648%20SCHEMATIC%20-%20ISS%207%20(traced).json) (the CAD file: `19xx - 648-02-001 - POWER SUPPLY M648 SCHEMATIC - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 648-02-001 - POWER SUPPLY M648 SCHEMATIC - ISS 7 (traced).json](../SCHEMATICS/19xx%20-%20648-02-001%20-%20POWER%20SUPPLY%20M648%20SCHEMATIC%20-%20ISS%207%20%28traced%29.json) (the CAD file: `19xx - 648-02-001 - POWER SUPPLY M648 SCHEMATIC - ISS 7 (traced).dxf`).
 
 ## Full text
 

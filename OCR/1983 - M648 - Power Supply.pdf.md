@@ -27,7 +27,7 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Words (OCR):** 20 in 16 lines: (VV8S] · WARD -BECK YSTE · LTD · CNT....-o · .......ax" · a.s·e-. · 55C · M648 · SUPPLY · ps · BS · IS
 - **Title block:** (110, 36)–(286, 419) mm: WARD -BECK YSTE · LTD · CNT....-o · .......ax" · a.s·e-. · 55C · M648 · SUPPLY · ps · BS · MANUAL ISSUE
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p1 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p1%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p1 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p1%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p1 (traced).dxf`).
 
 ### Page 2
 
@@ -39,7 +39,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p1 (traced).j
 - **Words (OCR):** 131 in 69 lines: WARD -BECK SYSTEMS · LTD. · ECHNIC AL OATA · REGULATEO OUTPUT · Output Vo lt ag · to · mp · ampl fl er app licati on, · ..og · condition · to · O.S mp continuou
 - **Title block:** (24, 291)–(259, 429) mm: WARD -BECK SYSTEMS · LTD. · ECHNIC AL OATA · REGULATEO OUTPUT · Output Vo lt ag · to · mp · ampl fl er app licati on, · ..og · condition · to · O.S mp continuou
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p2 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p2%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p2 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p2 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p2%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p2 (traced).j
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (77.6, 332.9)
 - **Words (OCR):** 50 in 25 lines: WAFl · CK YSTE MS LTD · TECHN ICAL DATA · 104648 OWER SU LY · lma · 115 ol IS · 60 H:z 100 VA · Req uireme · Amb ie · Temperal ure, · 10 SO d.gr. · Cel iu
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p3 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p3%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p3 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p3 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p3%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p3 (traced).dxf`).
 
 ### Page 4
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p3 (traced).j
 - **Dots (junctions):** 5
 - **Words (OCR):** 260 in 118 lines: SYSTe · LT · M648 POWER $UPPL · The M64 · In ..egulated pow · .upp ly Is des l!ilne<! · lma ";lv for · In Wa ..d-Be<::k <;OIlsoles and V.lems Th un it · lde · lIo · de; · am
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p4 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p4%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p4 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p4 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p4%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p4 (traced).dxf`).
 
 ### Page 5
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p4 (traced).j
 - **Dots (junctions):** 4
 - **Words (OCR):** 435 in 175 lines: WA~ · YSTeMS LTO. · M648 OWER SUPP LY · M648 pow · ply · lrKl · In lO he MF6 mou nling fr ame. · Th · fr me ma · be in stall ed · In · tand rd
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p5 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p5%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p5 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p5 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p5%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p5 (traced).dxf`).
 
 ### Page 6
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p5 (traced).j
 - **Words (OCR):** 97 in 79 lines: WAAD-BeCK BYBTEME · EAataYF 4300 OFLW · IStaLLATiOY · Rolia SUPPLY · pcte · oatorbalncn · pceer ELoolt · nlald · vipmenl · [Mentyelive · orerte · remobt Nen (Ng
 - **Wiring (first pass):** 9 connected wire groups from 424 runs; labelled ends: 632 mm → nBSps.; 66 mm → Rolia SUPPLY; 46 mm → IStaLLATiOY, Rolia SUPPLY; 33 mm → exialing, cpacitoc, Icaneercc, added; 14 mm → WAAD-BeCK BYBTEME
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p6 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p6%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p6 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p6 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p6%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p6 (traced).dxf`).
 
 ### Page 7
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p6 (traced).j
 - **Dots (junctions):** 1
 - **Words (OCR):** 138 in 61 lines: WAFlO I!IECK SYSTE · LTD. · CIRCUIT DESCRIPT ION · Th · line volt age · li · to · an fo,.m · Tl · ia · onn ecto,. PI · termin al
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p7 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p7%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p7 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p7 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p7%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p7 (traced).dxf`).
 
 ### Page 8
 
@@ -108,7 +108,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p7 (traced).j
 - **Dots (junctions):** 4
 - **Words (OCR):** 88 in 43 lines: WAR · V.T · TD. · M648 POWER SUPPL · MF PART NUMBER · 0.1 · /400 · Ph lip · 34 7104 · C2 · 2800 · l00
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p8 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p8%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p8 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p8 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p8%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p8 (traced).dxf`).
 
 ### Page 9
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p8 (traced).j
 - **Title block:** (364, 29)–(432, 44) mm: (VVE3S] WARD-BECK SYSTEMS
 - **Wiring (first pass):** 39 connected wire groups from 222 runs; labelled ends: 986 mm → R2, ri, 2,3, -R4!; 261 mm → 470/40, 13,, 141; 148 mm → 470/40; 73 mm → L.-J, 16; 51 mm → GN
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p9 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p9%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p9 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p9 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p9%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p9 (traced).dxf`).
 
 ### Page 10
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p9 (traced).j
 - **Title block:** (358, 32)–(431, 46) mm: BS SYSTEMS · (WE3S) WARD-BECK
 - **Wiring (first pass):** 50 connected wire groups from 198 runs; labelled ends: 232 mm → P2, +48V, +SENSE, 11; 114 mm → AC, 16, P2, 12; 74 mm → POWER, TRAY; 73 mm → 10, 11; 60 mm → P1, AC
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p10 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p10%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p10 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p10 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p10%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p10 (traced).dxf`).
 
 ### Page 11
 
@@ -147,7 +147,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p10 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 541 in 72 lines: WAFlD-II ~CI< · LTD. · ClRelllT DEscR · loN · 14_0 · BEGm AJOR 6ssEMBI · he constant current sourc Q2 isol ate the incremental changes of the unr el ulat ed · de input vol tai · rom the co ntrol current leav in,lhe eoll eet or ofQ · nd enle inl · the base of Q3. · Q3 is current amplifier desi lned t
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p11 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p11%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p11 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p11 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p11%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p11 (traced).dxf`).
 
 ### Page 12
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p11 (traced).
 - **Outlines:** line 196 rings, 2,519 straight (5,152 mm) / 637 curved (1,006 mm); text 226 rings, 1,545 straight (1,619 mm) / 526 curved (836 mm)
 - **Words (OCR):** 60 in 17 lines: TAGE · RT · 6558MB! · 5A I:4.0,8 fQ · IOB · The oUowin vc teages are typical aod are obtained under 'no load' conditions, · wilh Ihc ae inpllt adjll slcd Illch as 10 rCSII!t io an lIorCllllatcd voltaic of ..80 Vdc · Thc voltmeter used should ha ve minimllm sen sitivity of 20,000 ollm per volt. · QI 
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p12 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p12%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p12 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p12 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p12%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p12 (traced).dxf`).
 
 ### Page 13
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p12 (traced).
 - **Dots (junctions):** 11
 - **Words (OCR):** 131 in 100 lines: S6l+QU "em Am, Ass lMBI · MfG · ARr · ESCB IUION · MEG UBI · MB ER · co · C.~c:ito 4.1 I1F/3$ · Kc:mc: · T39004l$MOHAS · C2 · 2200 pF
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p13 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p13%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p13 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p13 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p13%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p13 (traced).dxf`).
 
 ### Page 14
 
@@ -176,7 +176,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p13 (traced).
 - **Outlines:** line 158 rings, 2,377 straight (4,761 mm) / 566 curved (857 mm); text 162 rings, 1,085 straight (1,126 mm) / 353 curved (559 mm)
 - **Words (OCR):** 52 in 22 lines: A!+O$I BlGl rU IQR ASSE MBI · ART · PESCR IP TIO · ME · MEG AR NU MB · ur · V011l8~ Rel l,ll ll or · XU> · Soc ke · Pio Oil' · Am, · WBS ecommends lhe use of
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p14 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p14%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p14 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p14 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p14%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p14 (traced).dxf`).
 
 ### Page 15
 
@@ -190,7 +190,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p14 (traced).
 - **Title block:** (367, 26)–(432, 40) mm: (VVE3S) WARD-BECK SYSTEMS
 - **Wiring (first pass):** 30 connected wire groups from 186 runs; labelled ends: 620 mm → 820, 1/2W, 8~1, IN4003; 420 mm → C8, 2K2, 3.75W, ~Cl; 226 mm → II, RI2, ISO, R8; 196 mm → 1/2W; 193 mm → RIO, 6K8, TN2102
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p15 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p15%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p15 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p15 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p15%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p15 (traced).dxf`).
 
 ### Page 16
 
@@ -201,7 +201,7 @@ Every curve, box, word and wire group: [1983 - M648 - Power Supply p15 (traced).
 - **Closed boxes:** 4
 - **Words (OCR):** 86 in 64 lines: 01~ · R7 12K 1/2W · RIO 6K8 (VVE3S] · TN2102 · 03 · R5.,g0 · TN2102\9 · Rll · R8 8201/2W · TN2~37@ · TN~j02 · C3
 
-Every curve, box, word and wire group: [1983 - M648 - Power Supply p16 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p16%20(traced).json) (the CAD file: `1983 - M648 - Power Supply p16 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - Power Supply p16 (traced).json](../MANUALS/1983%20-%20M648%20-%20Power%20Supply%20p16%20%28traced%29.json) (the CAD file: `1983 - M648 - Power Supply p16 (traced).dxf`).
 
 ## Full text
 

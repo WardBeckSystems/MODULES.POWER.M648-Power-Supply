@@ -11,6 +11,20 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Size:** 184,206 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 334 mm, 1165 × 900 px traced (0.371 mm/px)
+- **Ink extent:** 1–427 mm across, 50–298 mm up
+- **Outlines:** line 446 rings, 5,828 straight (12,261 mm) / 984 curved (2,027 mm); text 336 rings, 2,186 straight (3,108 mm) / 654 curved (1,323 mm); tb 2 rings, 19 straight (37.4 mm) / 2 curved (5.2 mm)
+- **Centre lines:** 12,352 paths (110 closed); straight 12,343 mm, curved 189 mm; horizontal 4,192 mm, vertical 2,825 mm, diagonal 5,325 mm
+- **Circles and arcs:** 4 circles, 15 arcs; largest r 7.7 @ (190.7, 203.9), r 6.2 @ (363.1, 198.1), r 1.6 @ (135.2, 269.8), r 1.5 @ (357.7, 190.4)
+- **Closed boxes:** 5; named: ISS.
+- **Words (OCR):** 75 in 68 lines: SERIcs · Prs SISToR · 2N2108 · BASE · UN- · REG IS · VOLTAGE · azpifipo · Rs · 7M · +48v · GRT"
+- **Title block:** (186, 78)–(425, 106) mm: FINISH · DRN} · WRD_BECK SYSHETS Wl · DATE · 8: 4371 · CFKD · HATERIAL · M136: REGULATOR CARD sarATIC'
+- **Wiring (first pass):** 57 connected wire groups from 414 runs; labelled ends: 287 mm → 05, 2N3528, Rii, Ioo; 238 mm → R6, 6k8, 47/35, CR3; 228 mm → EETEadheus, ISS.; 165 mm → Prs SISToR; 164 mm → CR?, ZN4057, psoeef/ioo, 41594
+
+Every curve, box, word and wire group: [1970 - M648 - Power Supply-schematic-1 (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20Power%20Supply-schematic-1%20%28traced%29.json) (the CAD file: `1970 - M648 - Power Supply-schematic-1 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 4 words corrected)

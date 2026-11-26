@@ -39,7 +39,7 @@ Schematic of the M648A 48V power supply with regulator card.
 - **Words (OCR):** 101 in 85 lines: P2 · 2N3442 · RZ · +48 · PI · SWI FI · F2 · RI · 5w · R4 · I.Sk · L,.5A
 - **Wiring (first pass):** 87 connected wire groups from 375 runs; labelled ends: 159 mm → CI, 2500, R3, AV; 131 mm → 2N3442, F2, L,.5A, RI; 123 mm → RZ, 5w, R4, I.Sk; 117 mm → DSI, R3, AV, 1.5; 96 mm → L,.5A, CI, 2500, IOO
 
-Every curve, box, word and wire group: [1970 - 648-02-002 - M648A POWER SUPPLY SCHMATIC - DRN DJG - ISS 4 (traced).json](../SCHEMATICS/1970%20-%20648-02-002%20-%20M648A%20POWER%20SUPPLY%20SCHMATIC%20-%20DRN%20DJG%20-%20ISS%204%20(traced).json) (the CAD file: `1970 - 648-02-002 - M648A POWER SUPPLY SCHMATIC - DRN DJG - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 648-02-002 - M648A POWER SUPPLY SCHMATIC - DRN DJG - ISS 4 (traced).json](../SCHEMATICS/1970%20-%20648-02-002%20-%20M648A%20POWER%20SUPPLY%20SCHMATIC%20-%20DRN%20DJG%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1970 - 648-02-002 - M648A POWER SUPPLY SCHMATIC - DRN DJG - ISS 4 (traced).dxf`).
 
 ## Full text
 

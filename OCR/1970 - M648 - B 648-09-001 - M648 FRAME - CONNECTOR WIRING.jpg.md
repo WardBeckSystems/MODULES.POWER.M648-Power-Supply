@@ -21,7 +21,7 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Closed boxes:** 11
 - **Wiring (first pass):** 59 connected wire groups from 654 runs
 
-Every curve, box, word and wire group: [1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING (traced).json](../PINOUTS/1970%20-%20M648%20-%20B%20648-09-001%20-%20M648%20FRAME%20-%20CONNECTOR%20WIRING%20(traced).json) (the CAD file: `1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING (traced).json](../PINOUTS/1970%20-%20M648%20-%20B%20648-09-001%20-%20M648%20FRAME%20-%20CONNECTOR%20WIRING%20%28traced%29.json) (the CAD file: `1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING (traced).dxf`).
 
 ## Full text
 

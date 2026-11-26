@@ -23,7 +23,7 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Title block:** (22, 57)–(151, 426) mm: WAAD-BECK BYBTEMB LTD: · The constant current source · dc input · the basc of Q3. · Q3 · the main frame assembly of the M648 or M648A_ · 04 is · +24 volts to +48 volts_ · UI contains · comparison volt
 - **Wiring (first pass):** 1 connected wire groups from 37 runs
 
-Every curve, box, word and wire group: [1970 - M648 - 648-02-003 - WILL BEGIN CONDUCT SUPPLYING GATE CURRENT (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20648-02-003%20-%20WILL%20BEGIN%20CONDUCT%20SUPPLYING%20GATE%20CURRENT%20(traced).json) (the CAD file: `1970 - M648 - 648-02-003 - WILL BEGIN CONDUCT SUPPLYING GATE CURRENT (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M648 - 648-02-003 - WILL BEGIN CONDUCT SUPPLYING GATE CURRENT (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20648-02-003%20-%20WILL%20BEGIN%20CONDUCT%20SUPPLYING%20GATE%20CURRENT%20%28traced%29.json) (the CAD file: `1970 - M648 - 648-02-003 - WILL BEGIN CONDUCT SUPPLYING GATE CURRENT (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ M648 mounting tray and typical system wiring drawing.
 - **Title block:** (334, 31)–(431, 47) mm: WBS WARD-BECK BYSTEMB
 - **Wiring (first pass):** 46 connected wire groups from 198 runs, 1 dotted junctions; labelled ends: 325 mm → +4BV, #SENSE, P2, 12; 293 mm → AC, 16, LOAD, 10,11; 148 mm → uFd/, LOAD, minimum, 2000; 94 mm → +4BV, #SENSE, 2000, minimum; 74 mm → POWER, AC, MOUNTING_TRAY
 
-Every curve, box, word and wire group: [19xx - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20648-02-003%20-%20MOUNTING%20TRAY%20AND%20TYPICAL%20SYSTEM%20WIRING%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20648-02-003%20-%20MOUNTING%20TRAY%20AND%20TYPICAL%20SYSTEM%20WIRING%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING - ISS 1 (traced).dxf`).
 
 ## Full text
 

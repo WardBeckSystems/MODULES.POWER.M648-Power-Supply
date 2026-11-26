@@ -21,7 +21,7 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Closed boxes:** 15
 - **Wiring (first pass):** 78 connected wire groups from 594 runs
 
-Every curve, box, word and wire group: [1970 - M648 - B 136-02-001 - M136 REGULATOR CARD SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20B%20136-02-001%20-%20M136%20REGULATOR%20CARD%20SCHEMATIC%20(traced).json) (the CAD file: `1970 - M648 - B 136-02-001 - M136 REGULATOR CARD SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M648 - B 136-02-001 - M136 REGULATOR CARD SCHEMATIC (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20B%20136-02-001%20-%20M136%20REGULATOR%20CARD%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1970 - M648 - B 136-02-001 - M136 REGULATOR CARD SCHEMATIC (traced).dxf`).
 
 ## Full text
 

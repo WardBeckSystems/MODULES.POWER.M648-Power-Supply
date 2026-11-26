@@ -24,7 +24,7 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Title block:** (334, 31)–(431, 47) mm: WBS WARD-BECK BYSTEMB
 - **Wiring (first pass):** 46 connected wire groups from 200 runs, 1 dotted junctions; labelled ends: 353 mm → AC, 16, LOAD, 10,11; 326 mm → +4BV, #SENSE, P2, 12; 148 mm → uFd/, LOAD, minimum, 2000; 94 mm → +4BV, #SENSE, 2000, minimum; 74 mm → POWER, AC, MOUNTING_TRAY
 
-Every curve, box, word and wire group: [1970 - M648 - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20648-02-003%20-%20MOUNTING%20TRAY%20AND%20TYPICAL%20SYSTEM%20WIRING%20(traced).json) (the CAD file: `1970 - M648 - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING (traced).dxf`).
+Every curve, box, word and wire group: [1970 - M648 - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING (traced).json](../SCHEMATICS/1970%20-%20M648%20-%20648-02-003%20-%20MOUNTING%20TRAY%20AND%20TYPICAL%20SYSTEM%20WIRING%20%28traced%29.json) (the CAD file: `1970 - M648 - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING (traced).dxf`).
 
 ## Full text
 

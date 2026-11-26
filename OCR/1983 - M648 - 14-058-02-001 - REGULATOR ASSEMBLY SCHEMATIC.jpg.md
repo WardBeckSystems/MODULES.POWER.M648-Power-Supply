@@ -27,7 +27,7 @@ Wiki page: [M648](../../../../PAGES/M648.md)
 - **Title block:** (346, 25)–(432, 42) mm: WBS · WARD-BECK ByBteMB
 - **Wiring (first pass):** 25 connected wire groups from 251 runs; labelled ends: 689 mm → Ek, 1/2w, N4oo3, CR2; 464 mm → 2N6395, c8, 4.7/35, 2k2; 258 mm → IN746B, R2, 3K3, 3.3V; 258 mm → 71, Ek, 8k8, R38; 204 mm → 8k8, 6k8
 
-Every curve, box, word and wire group: [1983 - M648 - 14-058-02-001 - REGULATOR ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M648%20-%2014-058-02-001%20-%20REGULATOR%20ASSEMBLY%20SCHEMATIC%20(traced).json) (the CAD file: `1983 - M648 - 14-058-02-001 - REGULATOR ASSEMBLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M648 - 14-058-02-001 - REGULATOR ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1983%20-%20M648%20-%2014-058-02-001%20-%20REGULATOR%20ASSEMBLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1983 - M648 - 14-058-02-001 - REGULATOR ASSEMBLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

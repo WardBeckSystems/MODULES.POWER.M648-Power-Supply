@@ -1,0 +1,137 @@
+{
+ "drawing": "Modules/POWER/M648/SCHEMATICS/19xx - M648-09-002 - TYPICAL SYSTEM WIRING FIG. 1 - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/86302c0c83898241.svg",
+ "sheet": {
+  "number": "B M648-09-002",
+  "title": "TYPICAL SYSTEM / WIRING / FIG. 1",
+  "dtype": "09",
+  "type": "wiring",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1650, 1275],
+  "mm": [431.8, 333.7],
+  "mm_per_px": 0.2617
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [109.4, 50.0, 429.4, 297.8],
+ "outlines": {
+  "line": {"rings": 398, "straight": {"n": 5130, "mm": 5927.9}, "curved": {"n": 752, "mm": 1036.9}},
+  "text": {"rings": 182, "straight": {"n": 1575, "mm": 1580.9}, "curved": {"n": 388, "mm": 563.1}},
+  "tb": {"rings": 25, "straight": {"n": 119, "mm": 96.2}, "curved": {"n": 21, "mm": 23.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 9497, "straight": {"n": 9670, "mm": 5111.8}, "curved": {"n": 11, "mm": 11.1}},
+   "text": {"paths": 4215, "straight": {"n": 4536, "mm": 2314.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 114, "straight": {"n": 123, "mm": 130.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 63,
+  "orientation": {"horizontal": {"n": 3835, "mm": 2428.4}, "vertical": {"n": 3783, "mm": 1581.4}, "diagonal": {"n": 6711, "mm": 3546.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [209.7, 249.5], "r": 1.3, "kind": "arc", "span": 176, "from": ["centre line"], "start": 292},
+  {"c": [208.3, 150.1], "r": 1.0, "kind": "arc", "span": 146, "from": ["centre line"], "start": 299},
+  {"c": [153.0, 148.6], "r": 0.9, "kind": "arc", "span": 263, "from": ["centre line"], "start": 1}
+ ],
+ "boxes": [
+  {"mm": [224.5, 274.3, 229.2, 280.0], "w": 4.7, "h": 5.8, "from": "ring"},
+  {"mm": [223.5, 249.1, 227.9, 255.2], "w": 4.4, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [173.5, 280.8, 191.0, 288.9], "text": "M648"},
+   {"mm": [211.7, 278.2, 219.8, 282.5], "text": "2,30"},
+   {"mm": [214.1, 253.6, 220.1, 257.4], "text": "90"},
+   {"mm": [210.7, 240.0, 218.3, 244.3], "text": "120"},
+   {"mm": [233.7, 180.6, 313.3, 190.2], "text": "EXTEND SENSE LEADS WHEN LOAD"},
+   {"mm": [241.0, 176.1, 310.4, 185.0], "text": "REMOTE FROM ROWER SUPPLY"},
+   {"mm": [168.8, 170.1, 186.1, 177.1], "text": "M648"},
+   {"mm": [211.5, 171.9, 217.5, 176.9], "text": "Pz"},
+   {"mm": [206.5, 168.3, 215.6, 173.2], "text": "230"},
+   {"mm": [259.9, 168.3, 265.9, 172.6], "text": "48"},
+   {"mm": [258.8, 161.2, 273.5, 166.7], "text": "SENSE"},
+   {"mm": [257.0, 142.6, 272.2, 149.0], "text": "SENSE"},
+   {"mm": [201.2, 136.1, 210.4, 142.5], "text": "I0,41"},
+   {"mm": [257.2, 136.3, 267.5, 141.9], "text": "CQM"},
+   {"mm": [319.3, 87.1, 394.1, 100.7], "text": "WARD BECK_SYSTEMS"},
+   {"mm": [340.5, 79.0, 394.6, 88.9], "text": "TYPICAL SYSTEM"},
+   {"mm": [354.9, 69.9, 380.0, 78.0], "text": "WirinG"},
+   {"mm": [330.3, 52.6, 405.6, 62.7], "text": "FIG M648-09-002 ISS_"}
+  ]
+ },
+ "title_block": {"mm": [310.6, 80.5, 402.7, 107.4], "from": "title-block words (training set)", "text": ["WARD BECK_SYSTEMS", "TYPICAL SYSTEM"]},
+ "dots": [],
+ "nets": {
+  "groups": 38,
+  "wire_runs": 225,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 109.0, "runs": 7, "ends": 2, "bbox": [145.2, 236.6, 207.8, 287.3], "labels": ["120"]},
+   {"mm": 78.9, "runs": 13, "ends": 5, "bbox": [315.9, 53.6, 355.4, 72.2], "labels": ["FIG", "M648-09-002"]},
+   {"mm": 73.9, "runs": 4, "ends": 2, "bbox": [131.1, 127.7, 186.1, 149.7], "labels": []},
+   {"mm": 65.5, "runs": 2, "ends": 2, "bbox": [147.9, 287.6, 213.8, 289.7], "labels": ["2,30"]},
+   {
+    "mm": 65.5,
+    "runs": 2,
+    "ends": 2,
+    "bbox": [264.8, 166.2, 330.8, 168.8],
+    "labels": ["EXTEND SENSE LEADS WHEN LOAD", "REMOTE", "FROM ROWER SUPPLY", "48", "SENSE"]
+   },
+   {"mm": 65.2, "runs": 4, "ends": 2, "bbox": [142.6, 175.6, 207.8, 179.3], "labels": ["Pz", "230"]},
+   {"mm": 60.3, "runs": 5, "ends": 2, "bbox": [231.9, 251.8, 261.2, 280.5], "labels": []},
+   {"mm": 58.4, "runs": 3, "ends": 3, "bbox": [109.4, 158.6, 148.6, 178.7], "labels": []},
+   {"mm": 56.1, "runs": 4, "ends": 3, "bbox": [369.0, 50.8, 418.2, 59.1], "labels": ["M648-09-002", "ISS_"]},
+   {"mm": 50.3, "runs": 7, "ends": 3, "bbox": [223.0, 247.8, 259.6, 257.8], "labels": ["90"]},
+   {"mm": 42.4, "runs": 3, "ends": 2, "bbox": [278.7, 159.9, 321.4, 161.5], "labels": ["SENSE"]},
+   {
+    "mm": 41.9,
+    "runs": 1,
+    "ends": 2,
+    "bbox": [219.6, 168.8, 261.4, 170.4],
+    "labels": ["Pz", "230", "EXTEND SENSE LEADS WHEN LOAD", "REMOTE", "FROM ROWER SUPPLY", "48", "SENSE"]
+   },
+   {"mm": 40.3, "runs": 2, "ends": 2, "bbox": [219.3, 162.3, 260.1, 163.8], "labels": ["230", "48", "SENSE"]},
+   {"mm": 38.0, "runs": 2, "ends": 2, "bbox": [220.6, 137.7, 259.1, 139.0], "labels": ["SENSE", "CQM"]},
+   {"mm": 36.4, "runs": 2, "ends": 2, "bbox": [219.6, 144.2, 256.5, 145.8], "labels": ["SENSE", "CQM"]},
+   {"mm": 31.2, "runs": 2, "ends": 2, "bbox": [119.3, 269.0, 151.0, 270.3], "labels": []},
+   {"mm": 29.1, "runs": 3, "ends": 2, "bbox": [274.3, 142.4, 304.4, 143.1], "labels": ["SENSE", "CQM"]},
+   {"mm": 28.0, "runs": 2, "ends": 2, "bbox": [260.1, 250.7, 265.9, 275.0], "labels": []},
+   {"mm": 27.8, "runs": 4, "ends": 2, "bbox": [326.3, 139.0, 332.6, 162.8], "labels": []},
+   {"mm": 26.7, "runs": 3, "ends": 2, "bbox": [273.7, 136.1, 301.5, 136.9], "labels": ["SENSE", "CQM"]},
+   {"mm": 23.8, "runs": 4, "ends": 3, "bbox": [389.1, 53.1, 405.9, 61.2], "labels": ["M648-09-002", "ISS_"]},
+   {"mm": 22.5, "runs": 1, "ends": 2, "bbox": [335.8, 139.7, 337.1, 162.3], "labels": []},
+   {"mm": 21.0, "runs": 1, "ends": 2, "bbox": [109.4, 149.7, 130.3, 150.7], "labels": []},
+   {"mm": 19.6, "runs": 3, "ends": 2, "bbox": [115.9, 260.1, 136.6, 260.7], "labels": []},
+   {"mm": 18.1, "runs": 3, "ends": 2, "bbox": [310.4, 134.8, 329.2, 135.6], "labels": []},
+   {"mm": 14.1, "runs": 3, "ends": 2, "bbox": [187.9, 127.2, 202.3, 127.7], "labels": ["I0,41"]},
+   {"mm": 12.9, "runs": 3, "ends": 2, "bbox": [220.3, 129.0, 230.6, 132.9], "labels": []},
+   {"mm": 12.8, "runs": 1, "ends": 2, "bbox": [223.0, 242.3, 235.8, 242.6], "labels": ["120"]},
+   {"mm": 11.5, "runs": 2, "ends": 2, "bbox": [406.7, 86.9, 418.7, 87.4], "labels": ["BECK_SYSTEMS", "TYPICAL SYSTEM"]},
+   {"mm": 11.3, "runs": 2, "ends": 2, "bbox": [309.1, 141.6, 320.6, 142.1], "labels": []},
+   {"mm": 10.0, "runs": 3, "ends": 3, "bbox": [341.3, 63.3, 350.7, 64.6], "labels": ["TYPICAL SYSTEM", "WirinG", "FIG", "M648-09-002"]},
+   {"mm": 8.4, "runs": 1, "ends": 2, "bbox": [267.2, 161.7, 275.6, 162.0], "labels": ["48", "SENSE"]},
+   {"mm": 7.9, "runs": 1, "ends": 2, "bbox": [316.7, 73.8, 316.9, 81.6], "labels": ["WARD"]},
+   {"mm": 6.6, "runs": 1, "ends": 2, "bbox": [140.8, 151.0, 141.3, 157.5], "labels": []},
+   {"mm": 6.0, "runs": 2, "ends": 2, "bbox": [407.5, 60.2, 414.0, 60.2], "labels": ["M648-09-002", "ISS_"]},
+   {"mm": 5.8, "runs": 1, "ends": 2, "bbox": [266.4, 137.1, 272.2, 137.1], "labels": ["SENSE", "CQM"]},
+   {"mm": 5.8, "runs": 2, "ends": 2, "bbox": [331.3, 136.3, 335.5, 138.4], "labels": []},
+   {"mm": 5.5, "runs": 1, "ends": 2, "bbox": [302.8, 135.6, 308.3, 135.8], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** wiring B M648-09-002, size B (assumed) 432 × 334 mm, 1650 × 1275 px traced (0.262 mm/px)",
+  "- **Ink extent:** 109–429 mm across, 50–298 mm up",
+  "- **Outlines:** line 398 rings, 5,130 straight (5,928 mm) / 752 curved (1,037 mm); text 182 rings, 1,575 straight (1,581 mm) / 388 curved (563 mm); tb 25 rings, 119 straight (96.2 mm) / 21 curved (23.2 mm)",
+  "- **Centre lines:** 13,826 paths (63 closed); straight 7,556 mm, curved 11.1 mm; horizontal 2,428 mm, vertical 1,581 mm, diagonal 3,547 mm",
+  "- **Circles and arcs:** 0 circles, 3 arcs",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 22 in 18 lines: M648 · 2,30 · 90 · 120 · EXTEND SENSE LEADS WHEN LOAD · REMOTE FROM ROWER SUPPLY · M648 · Pz · 230 · 48 · SENSE · SENSE",
+  "- **Title block:** (311, 80)–(403, 107) mm: WARD BECK_SYSTEMS · TYPICAL SYSTEM",
+  "- **Wiring (first pass):** 38 connected wire groups from 225 runs; labelled ends: 109 mm → 120; 79 mm → FIG, M648-09-002; 66 mm → 2,30; 66 mm → EXTEND SENSE LEADS WHEN LOAD, REMOTE, FROM ROWER SUPPLY, 48; 65 mm → Pz, 230"
+ ]
+}

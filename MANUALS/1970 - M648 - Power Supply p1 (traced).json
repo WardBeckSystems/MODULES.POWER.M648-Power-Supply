@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/POWER/M648/MANUALS/1970 - M648 - Power Supply.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/9eaa605b0af817e3-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "16"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 305.3, 425.1],
+ "outlines": {
+  "line": {"rings": 31, "straight": {"n": 850, "mm": 3041.8}, "curved": {"n": 71, "mm": 124.1}},
+  "text": {"rings": 117, "straight": {"n": 1485, "mm": 1995.6}, "curved": {"n": 335, "mm": 559.6}},
+  "tb": {"rings": 17, "straight": {"n": 95, "mm": 92.4}, "curved": {"n": 33, "mm": 40.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [115.1, 402.9, 277.9, 412.7], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [46.9, 393.4, 249.8, 408.0], "text": "WES 941 PROGRESS AVENUE, SCAABOAOUGH; ONTAAIO"},
+   {"mm": [114.6, 392.1, 166.2, 397.4], "text": "Telex 065-25399"},
+   {"mm": [201.0, 391.6, 275.5, 398.8], "text": "TELEPHONE 416,438-6550"},
+   {"mm": [141.4, 204.0, 181.8, 218.7], "text": "M648"},
+   {"mm": [126.3, 190.0, 159.8, 198.1], "text": "PoWER"},
+   {"mm": [162.4, 190.0, 198.0, 198.6], "text": "SUPPLY"},
+   {"mm": [234.0, 44.3, 281.5, 51.2], "text": "MANUAL ISSUE"},
+   {"mm": [250.2, 30.7, 281.1, 37.6], "text": "MAY 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [108.6, 35.6, 288.1, 421.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD_",
+   "WES 941 PROGRESS AVENUE, SCAABOAOUGH; ONTAAIO",
+   "Telex 065-25399",
+   "TELEPHONE 416,438-6550",
+   "M648",
+   "PoWER",
+   "SUPPLY",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–305 mm across, 0–425 mm up",
+  "- **Outlines:** line 31 rings, 850 straight (3,042 mm) / 71 curved (124 mm); text 117 rings, 1,485 straight (1,996 mm) / 335 curved (560 mm); tb 17 rings, 95 straight (92.4 mm) / 33 curved (40.0 mm)",
+  "- **Words (OCR):** 15 in 9 lines: WARD-BECK SYSTEMS LTD_ · WES 941 PROGRESS AVENUE, SCAABOAOUGH; ONTAAIO · Telex 065-25399 · TELEPHONE 416,438-6550 · M648 · PoWER · SUPPLY · MANUAL ISSUE · MAY 1983",
+  "- **Title block:** (109, 36)–(288, 421) mm: WARD-BECK SYSTEMS LTD_ · WES 941 PROGRESS AVENUE, SCAABOAOUGH; ONTAAIO · Telex 065-25399 · TELEPHONE 416,438-6550 · M648 · PoWER · SUPPLY · MANUAL ISSUE"
+ ]
+}

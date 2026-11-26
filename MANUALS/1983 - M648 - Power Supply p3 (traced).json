@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/POWER/M648/MANUALS/1983 - M648 - Power Supply.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/b445dd13d5286357-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "16"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [25.5, 21.5, 329.1, 425.8],
+ "outlines": {
+  "line": {"rings": 201, "straight": {"n": 2364, "mm": 4604.2}, "curved": {"n": 564, "mm": 867.2}},
+  "text": {"rings": 83, "straight": {"n": 628, "mm": 678.7}, "curved": {"n": 170, "mm": 264.2}}
+ },
+ "circles": [{"c": [77.6, 332.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [27.2, 413.4, 46.0, 419.0], "text": "WAFl"},
+   {"mm": [68.0, 413.4, 139.7, 419.0], "text": "CK YSTE MS LTD"},
+   {"mm": [141.2, 370.3, 196.3, 375.5], "text": "TECHN ICAL DATA"},
+   {"mm": [134.7, 357.1, 201.9, 362.4], "text": "104648 OWER SU LY"},
+   {"mm": [51.0, 330.3, 59.6, 335.6], "text": "lma"},
+   {"mm": [131.9, 330.3, 161.3, 335.6], "text": "115 ol IS"},
+   {"mm": [176.6, 330.3, 221.5, 335.6], "text": "60 H:z 100 VA"},
+   {"mm": [43.0, 323.6, 74.1, 328.9], "text": "Req uireme"},
+   {"mm": [42.7, 310.5, 61.1, 315.7], "text": "Amb ie"},
+   {"mm": [72.8, 310.5, 114.9, 315.7], "text": "Temperal ure,"},
+   {"mm": [139.0, 310.5, 175.5, 316.0], "text": "10 SO d.gr."},
+   {"mm": [188.3, 310.5, 207.0, 315.7], "text": "Cel iu"},
+   {"mm": [149.2, 297.5, 158.0, 302.8], "text": "wId"},
+   {"mm": [175.5, 297.5, 215.3, 303.0], "text": "3.4\" hIgh\""},
+   {"mm": [220.0, 297.5, 226.0, 303.0], "text": "13"},
+   {"mm": [240.3, 297.5, 254.3, 302.8], "text": "d.ep"},
+   {"mm": [131.9, 290.0, 154.6, 295.5], "text": "(83 mm"},
+   {"mm": [166.9, 290.0, 186.5, 295.5], "text": "83 mm"},
+   {"mm": [199.3, 290.0, 224.5, 295.5], "text": "336 rnrn)"},
+   {"mm": [139.5, 277.6, 179.0, 282.9], "text": "Ib (3.63 kg"},
+   {"mm": [51.8, 277.2, 66.9, 282.5], "text": "ight:"},
+   {"mm": [273.1, 64.1, 293.6, 73.0], "text": "ps"},
+   {"mm": [261.9, 52.7, 283.5, 64.0], "text": "BS"},
+   {"mm": [239.9, 30.9, 258.0, 37.8], "text": "tp"},
+   {"mm": [233.0, 23.7, 253.5, 30.7], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 26–329 mm across, 22–426 mm up",
+  "- **Outlines:** line 201 rings, 2,364 straight (4,604 mm) / 564 curved (867 mm); text 83 rings, 628 straight (679 mm) / 170 curved (264 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (77.6, 332.9)",
+  "- **Words (OCR):** 50 in 25 lines: WAFl · CK YSTE MS LTD · TECHN ICAL DATA · 104648 OWER SU LY · lma · 115 ol IS · 60 H:z 100 VA · Req uireme · Amb ie · Temperal ure, · 10 SO d.gr. · Cel iu"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/POWER/M648/MANUALS/1970 - M648 - Power Supply.pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/9eaa605b0af817e3-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "16"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 21.5, 299.7, 425.3],
+ "outlines": {
+  "line": {"rings": 57, "straight": {"n": 1088, "mm": 3421.9}, "curved": {"n": 166, "mm": 273.1}},
+  "text": {"rings": 355, "straight": {"n": 3026, "mm": 3366.2}, "curved": {"n": 987, "mm": 1545.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 42,
+  "lines": [
+   {"mm": [127.8, 375.2, 196.9, 383.6], "text": "DC_YOLIAGE CHARI"},
+   {"mm": [108.0, 362.3, 215.9, 369.7], "text": "SA1L058 REGULATOR ASSEMBLY"},
+   {"mm": [40.4, 342.0, 219.4, 350.9], "text": "The following  voltages are  typical are obtained under"},
+   {"mm": [147.2, 343.3, 159.6, 349.8], "text": "and"},
+   {"mm": [221.1, 342.8, 283.0, 351.0], "text": "'no load' conditions,"},
+   {"mm": [39.9, 335.9, 187.4, 343.4], "text": "with the ac input adjusted such a5 t0 result in an"},
+   {"mm": [188.7, 334.6, 283.7, 344.2], "text": "unregulated voltage of +80 Vdc."},
+   {"mm": [40.4, 330.3, 167.1, 336.8], "text": "The voltmeter uscd should have 2 minimum"},
+   {"mm": [167.5, 329.2, 269.9, 337.9], "text": "sensitivity of 20,000 ohms per volt:"},
+   {"mm": [105.1, 244.4, 135.4, 250.9], "text": "EMTTER"},
+   {"mm": [157.0, 244.0, 174.7, 250.9], "text": "BASE"},
+   {"mm": [211.4, 244.0, 252.4, 251.6], "text": "COLLECTQR"},
+   {"mm": [73.8, 231.0, 83.1, 238.0], "text": "Q1"},
+   {"mm": [227.1, 231.4, 235.1, 237.9], "text": "78"},
+   {"mm": [74.5, 217.6, 84.2, 225.1], "text": "Q2"},
+   {"mm": [111.2, 218.1, 118.7, 225.0], "text": "78"},
+   {"mm": [160.2, 218.5, 167.1, 225.0], "text": "77"},
+   {"mm": [227.1, 218.5, 235.1, 225.0], "text": "49"},
+   {"mm": [74.5, 204.0, 84.2, 211.7], "text": "Q3"},
+   {"mm": [111.2, 205.1, 123.5, 211.6], "text": "48.5"},
+   {"mm": [160.2, 205.1, 167.8, 211.6], "text": "49"},
+   {"mm": [227.1, 205.1, 235.1, 211.6], "text": "80"},
+   {"mm": [74.5, 191.7, 83.8, 198.7], "text": "Q4"},
+   {"mm": [110.5, 191.7, 123.5, 198.7], "text": "23.5"},
+   {"mm": [159.6, 191.7, 167.5, 198.7], "text": "24"},
+   {"mm": [227.1, 192.2, 235.1, 198.6], "text": "49"},
+   {"mm": [73.8, 145.3, 88.5, 152.3], "text": "Pins"},
+   {"mm": [73.8, 132.1, 83.6, 138.6], "text": "UI"},
+   {"mm": [98.2, 132.1, 147.9, 139.1], "text": "23.5 31.5 31.5"},
+   {"mm": [172.3, 133.0, 180.9, 138.3], "text": "17"},
+   {"mm": [190.6, 133.0, 199.3, 138.3], "text": "L7"},
+   {"mm": [211.4, 132.1, 242.7, 139.1], "text": "24 23.5"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–300 mm across, 22–425 mm up",
+  "- **Outlines:** line 57 rings, 1,088 straight (3,422 mm) / 166 curved (273 mm); text 355 rings, 3,026 straight (3,366 mm) / 987 curved (1,546 mm)",
+  "- **Words (OCR):** 42 in 32 lines: DC_YOLIAGE CHARI · SA1L058 REGULATOR ASSEMBLY · The following  voltages are  typical are obtained under · and · 'no load' conditions, · with the ac input adjusted such a5 t0 result in an · unregulated voltage of +80 Vdc. · The voltmeter uscd should have 2 minimum · sensitivity of 20,000 ohms per vol"
+ ]
+}

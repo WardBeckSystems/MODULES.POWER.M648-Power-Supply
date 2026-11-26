@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/POWER/M648/SCHEMATICS/1970 - M648 - T.C. REGULATOR CARD - COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/bcc9b458ba320c8a.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 270,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 17.3, 431.8, 305.3],
+ "outlines": {
+  "line": {"rings": 1110, "straight": {"n": 7350, "mm": 9076.0}, "curved": {"n": 1962, "mm": 1918.0}},
+  "text": {"rings": 118, "straight": {"n": 826, "mm": 774.4}, "curved": {"n": 272, "mm": 281.6}}
+ },
+ "circles": [
+  {"c": [76.7, 234.7], "r": 10.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [133.7, 186.3], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [227.8, 237.3, 237.8, 242.2], "w": 10.0, "h": 5.0, "from": "ring"},
+  {"mm": [111.0, 230.8, 120.0, 236.0], "w": 9.1, "h": 5.2, "from": "ring"},
+  {"mm": [256.3, 223.9, 260.6, 234.3], "w": 4.3, "h": 10.4, "from": "ring"},
+  {"mm": [73.4, 204.0, 92.8, 211.0], "w": 19.4, "h": 7.0, "from": "ring"},
+  {"mm": [73.4, 195.3, 93.1, 202.5], "w": 19.7, "h": 7.2, "from": "ring"},
+  {"mm": [120.0, 182.9, 139.0, 190.0], "w": 19.0, "h": 7.1, "from": "ring"},
+  {"mm": [120.0, 168.8, 139.0, 176.4], "w": 19.0, "h": 7.6, "from": "ring"},
+  {"mm": [187.0, 66.2, 200.0, 75.2], "w": 13.0, "h": 9.0, "from": "ring"},
+  {"mm": [201.2, 66.3, 239.1, 75.2], "w": 37.8, "h": 8.9, "from": "ring"},
+  {"mm": [319.1, 66.4, 321.5, 74.9], "w": 2.4, "h": 8.5, "from": "ring"},
+  {"mm": [201.2, 56.9, 239.1, 65.9], "w": 37.8, "h": 9.0, "from": "ring"},
+  {"mm": [186.8, 57.0, 200.0, 65.8], "w": 13.2, "h": 8.9, "from": "ring"},
+  {"mm": [201.2, 47.3, 239.0, 56.8], "w": 37.8, "h": 9.5, "from": "ring"},
+  {"mm": [186.9, 47.3, 200.0, 56.6], "w": 13.1, "h": 9.3, "from": "ring"},
+  {"mm": [187.0, 38.0, 199.9, 46.9], "w": 13.0, "h": 8.9, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–432 mm across, 17–305 mm up",
+  "- **Outlines:** line 1,110 rings, 7,350 straight (9,076 mm) / 1,962 curved (1,918 mm); text 118 rings, 826 straight (774 mm) / 272 curved (282 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 10.1 @ (76.7, 234.7), r 1.9 @ (133.7, 186.3)",
+  "- **Closed boxes:** 15"
+ ]
+}

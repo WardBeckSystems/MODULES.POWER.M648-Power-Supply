@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/POWER/M648/MANUALS/1983 - M648 - Power Supply.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/b445dd13d5286357-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "16"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 305.3, 425.1],
+ "outlines": {
+  "line": {"rings": 40, "straight": {"n": 977, "mm": 3157.8}, "curved": {"n": 93, "mm": 160.0}},
+  "text": {"rings": 50, "straight": {"n": 506, "mm": 752.2}, "curved": {"n": 118, "mm": 199.4}},
+  "tb": {"rings": 78, "straight": {"n": 967, "mm": 1193.9}, "curved": {"n": 264, "mm": 422.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [41.7, 392.9, 106.4, 409.0], "text": "(VV8S]"},
+   {"mm": [116.6, 402.9, 231.9, 410.3], "text": "WARD -BECK YSTE"},
+   {"mm": [256.9, 402.9, 276.6, 410.3], "text": "LTD"},
+   {"mm": [226.9, 396.0, 250.4, 401.7], "text": "CNT....-o"},
+   {"mm": [252.6, 395.7, 274.6, 402.2], "text": ".......ax\""},
+   {"mm": [136.0, 391.2, 166.7, 397.0], "text": "a.s·e-."},
+   {"mm": [264.9, 391.6, 273.8, 396.0], "text": "55C"},
+   {"mm": [142.9, 203.6, 180.3, 215.8], "text": "M648"},
+   {"mm": [164.1, 190.4, 197.1, 196.9], "text": "SUPPLY"},
+   {"mm": [273.1, 64.1, 293.6, 73.0], "text": "ps"},
+   {"mm": [261.9, 52.7, 283.5, 64.0], "text": "BS"},
+   {"mm": [285.4, 44.0, 291.5, 50.3], "text": "IS"},
+   {"mm": [235.3, 44.3, 279.6, 49.1], "text": "MANUAL ISSUE"},
+   {"mm": [239.9, 30.9, 280.0, 37.8], "text": "tp 1983"},
+   {"mm": [251.1, 30.9, 259.1, 35.7], "text": "MA"},
+   {"mm": [233.0, 23.7, 253.5, 30.7], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [110.0, 35.7, 286.2, 418.8],
+  "from": "title-block words (training set)",
+  "text": ["WARD -BECK YSTE", "LTD", "CNT....-o", ".......ax\"", "a.s·e-.", "55C", "M648", "SUPPLY", "ps", "BS", "MANUAL ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–305 mm across, 0–425 mm up",
+  "- **Outlines:** line 40 rings, 977 straight (3,158 mm) / 93 curved (160 mm); text 50 rings, 506 straight (752 mm) / 118 curved (199 mm); tb 78 rings, 967 straight (1,194 mm) / 264 curved (422 mm)",
+  "- **Words (OCR):** 20 in 16 lines: (VV8S] · WARD -BECK YSTE · LTD · CNT....-o · .......ax\" · a.s·e-. · 55C · M648 · SUPPLY · ps · BS · IS",
+  "- **Title block:** (110, 36)–(286, 419) mm: WARD -BECK YSTE · LTD · CNT....-o · .......ax\" · a.s·e-. · 55C · M648 · SUPPLY · ps · BS · MANUAL ISSUE"
+ ]
+}

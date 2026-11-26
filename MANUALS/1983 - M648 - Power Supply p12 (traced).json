@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/POWER/M648/MANUALS/1983 - M648 - Power Supply.pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/b445dd13d5286357-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "16"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 21.6, 299.7, 425.3],
+ "outlines": {
+  "line": {"rings": 196, "straight": {"n": 2519, "mm": 5152.2}, "curved": {"n": 637, "mm": 1006.2}},
+  "text": {"rings": 226, "straight": {"n": 1545, "mm": 1618.6}, "curved": {"n": 526, "mm": 836.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 60,
+  "lines": [
+   {"mm": [153.3, 376.7, 170.3, 381.3], "text": "TAGE"},
+   {"mm": [187.4, 376.7, 195.8, 381.3], "text": "RT"},
+   {"mm": [181.4, 362.7, 209.0, 369.4], "text": "6558MB!"},
+   {"mm": [109.5, 363.1, 150.9, 368.2], "text": "5A I:4.0,8 fQ"},
+   {"mm": [165.2, 363.1, 177.9, 368.2], "text": "IOB"},
+   {"mm": [41.0, 343.3, 282.2, 348.8], "text": "The oUowin vc teages are typical aod are obtained under 'no load' conditions,"},
+   {"mm": [41.5, 336.6, 280.9, 342.1], "text": "wilh Ihc ae inpllt adjll slcd Illch as 10 rCSII!t io an lIorCllllatcd voltaic of ..80 Vdc"},
+   {"mm": [41.0, 330.3, 269.0, 335.8], "text": "Thc voltmeter used should ha ve minimllm sen sitivity of 20,000 ollm per volt."},
+   {"mm": [75.1, 231.0, 81.6, 236.5], "text": "QI"},
+   {"mm": [75.1, 217.8, 82.7, 223.6], "text": "Q2"},
+   {"mm": [112.3, 217.8, 118.5, 223.6], "text": "78"},
+   {"mm": [75.1, 204.7, 82.3, 210.0], "text": "Q3"},
+   {"mm": [75.1, 146.6, 79.2, 151.2], "text": "Pi"},
+   {"mm": [273.1, 64.1, 293.6, 73.0], "text": "ps"},
+   {"mm": [261.9, 52.7, 283.5, 64.0], "text": "BS"},
+   {"mm": [239.9, 30.9, 258.0, 37.8], "text": "tp"},
+   {"mm": [233.0, 23.7, 253.5, 30.7], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–300 mm across, 22–425 mm up",
+  "- **Outlines:** line 196 rings, 2,519 straight (5,152 mm) / 637 curved (1,006 mm); text 226 rings, 1,545 straight (1,619 mm) / 526 curved (836 mm)",
+  "- **Words (OCR):** 60 in 17 lines: TAGE · RT · 6558MB! · 5A I:4.0,8 fQ · IOB · The oUowin vc teages are typical aod are obtained under 'no load' conditions, · wilh Ihc ae inpllt adjll slcd Illch as 10 rCSII!t io an lIorCllllatcd voltaic of ..80 Vdc · Thc voltmeter used should ha ve minimllm sen sitivity of 20,000 ollm per volt. · QI "
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/POWER/M648/MANUALS/1983 - M648 - Power Supply.pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/b445dd13d5286357-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "16"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [24.8, 20.5, 329.1, 424.9],
+ "outlines": {
+  "line": {"rings": 158, "straight": {"n": 2377, "mm": 4761.4}, "curved": {"n": 566, "mm": 857.0}},
+  "text": {"rings": 162, "straight": {"n": 1085, "mm": 1126.5}, "curved": {"n": 353, "mm": 559.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [117.0, 362.3, 214.0, 367.3], "text": "A!+O$I BlGl rU IQR ASSE MBI"},
+   {"mm": [45.6, 343.3, 57.2, 348.6], "text": "ART"},
+   {"mm": [79.9, 343.5, 118.7, 348.3], "text": "PESCR IP TIO"},
+   {"mm": [174.4, 342.6, 182.4, 347.4], "text": "ME"},
+   {"mm": [211.2, 342.6, 265.3, 347.4], "text": "MEG AR NU MB"},
+   {"mm": [41.5, 329.5, 49.0, 337.4], "text": "ur"},
+   {"mm": [75.1, 329.2, 125.9, 335.0], "text": "V011l8~ Rel l,ll ll or"},
+   {"mm": [41.0, 316.5, 52.5, 321.8], "text": "XU>"},
+   {"mm": [74.9, 316.1, 90.5, 321.6], "text": "Soc ke"},
+   {"mm": [102.8, 316.1, 123.5, 321.6], "text": "Pio Oil'"},
+   {"mm": [182.7, 315.4, 194.1, 321.4], "text": "Am,"},
+   {"mm": [39.5, 72.1, 120.7, 77.6], "text": "WBS ecommends lhe use of"},
+   {"mm": [125.4, 71.5, 211.2, 78.4], "text": "rc placem~nt parts made by th"},
+   {"mm": [226.9, 71.5, 284.3, 78.4], "text": "ci fi~ ma'1I,lfacturcr"},
+   {"mm": [39.1, 66.1, 44.0, 71.6], "text": "fo"},
+   {"mm": [53.3, 65.8, 105.1, 72.3], "text": "ontinl,l~d optimum"},
+   {"mm": [108.0, 65.8, 177.9, 72.3], "text": "eq l,lipm~nl p~rformlnc~."},
+   {"mm": [273.1, 64.1, 293.6, 73.0], "text": "ps"},
+   {"mm": [261.9, 52.7, 283.5, 64.0], "text": "BS"},
+   {"mm": [239.9, 30.9, 258.0, 37.8], "text": "tp"},
+   {"mm": [233.0, 23.7, 253.5, 30.7], "text": "ht"},
+   {"mm": [158.5, 18.4, 170.3, 27.0], "text": "a-a"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 25–329 mm across, 20–425 mm up",
+  "- **Outlines:** line 158 rings, 2,377 straight (4,761 mm) / 566 curved (857 mm); text 162 rings, 1,085 straight (1,126 mm) / 353 curved (559 mm)",
+  "- **Words (OCR):** 52 in 22 lines: A!+O$I BlGl rU IQR ASSE MBI · ART · PESCR IP TIO · ME · MEG AR NU MB · ur · V011l8~ Rel l,ll ll or · XU> · Soc ke · Pio Oil' · Am, · WBS ecommends lhe use of"
+ ]
+}

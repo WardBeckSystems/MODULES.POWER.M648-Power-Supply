@@ -1,40 +1,289 @@
 {
  "code": "M648",
  "connector": "RTO-144",
- "type": "Power Supply",
+ "type": null,
  "series": null,
- "contacts": "7 contacts (P1), 10 contacts (P2)",
- "verified": null,
- "derived": true,
- "variant_of": null,
- "pins": [
+ "connectors": [
   {
-   "pin": "7",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/POWER/M648/MANUALS/1970 - M648 - WBS test procedures 1.jpeg",
-   "page": 1
+   "name": "P1",
+   "kind": "other",
+   "contacts": 16,
+   "rows": "1-8 opposite 9-16",
+   "view": "rear",
+   "part": null
   },
   {
-   "pin": "10",
-   "signal": "SHIELD",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/POWER/M648/MANUALS/1970 - M648 - P006 - 3-2.jpg",
-   "page": 1
+   "name": "P2",
+   "kind": "other",
+   "contacts": 16,
+   "rows": "1-8 opposite 9-16",
+   "view": "rear",
+   "part": null
   }
  ],
- "straps": [],
- "power": [],
- "sources": [
-  "Modules/POWER/M648/MANUALS/1970 - M648 - P006 - 3-2.jpg",
-  "Modules/POWER/M648/MANUALS/1970 - M648 - WBS test procedures 1.jpeg"
- ]
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+  ],
+  "sheet": null,
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "P1-7",
+   "also": null,
+   "same_row": null,
+   "signal": "AC MAINS",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "P1-16",
+   "also": null,
+   "same_row": null,
+   "signal": "AC MAINS",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "ref": "P2-1",
+   "also": null,
+   "same_row": null,
+   "signal": "+SENSE",
+   "kind": "other",
+   "port": "SENSE",
+   "polarity": "+",
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "2",
+   "ref": "P2-2",
+   "also": null,
+   "same_row": null,
+   "signal": "+48 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "ref": "P2-3",
+   "also": null,
+   "same_row": null,
+   "signal": "+48 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "ref": "P2-5",
+   "also": null,
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "ref": "P2-6",
+   "also": null,
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "ref": "P2-9",
+   "also": null,
+   "same_row": null,
+   "signal": "-SENSE",
+   "kind": "other",
+   "port": "SENSE",
+   "polarity": "-",
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "10",
+   "ref": "P2-10",
+   "also": null,
+   "same_row": null,
+   "signal": "48 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "ref": "P2-11",
+   "also": null,
+   "same_row": null,
+   "signal": "48 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "ref": "P2-12",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "ref": "P2-13",
+   "also": null,
+   "same_row": null,
+   "signal": "24 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "ref": "P2-14",
+   "also": null,
+   "same_row": null,
+   "signal": "24 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M648/PINOUTS/1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "SENSE",
+   "dir": "control_in",
+   "pins": {
+    "+": "P2-1",
+    "-": "P2-9"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "+48V",
+   "pins": [
+    "P2-2",
+    "P2-3"
+   ],
+   "note": "drawn link"
+  },
+  {
+   "name": "48V COM",
+   "pins": [
+    "P2-10",
+    "P2-11"
+   ],
+   "note": "drawn link"
+  },
+  {
+   "name": "+24V",
+   "pins": [
+    "P2-5",
+    "P2-6"
+   ],
+   "note": "drawn link"
+  },
+  {
+   "name": "24V COM",
+   "pins": [
+    "P2-13",
+    "P2-14"
+   ],
+   "note": "drawn link"
+  }
+ ],
+ "conflicts": [],
+ "to_check": []
 }

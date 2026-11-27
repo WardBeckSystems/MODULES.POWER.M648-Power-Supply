@@ -165,12 +165,25 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 
 ## RTO-144 pinout
 
-7 contacts (P1), 10 contacts (P2). Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 7 |  | unread |  | low |
-| 10 | SHIELD | ground |  | low |
+| P1-7 | AC MAINS | power |  | medium |
+| P1-16 | AC MAINS | power |  | medium |
+| P2-1 | +SENSE | other | SENSE + | medium |
+| P2-2 | +48 V | power |  | medium |
+| P2-3 | +48 V | power |  | medium |
+| P2-5 | +24 V | power |  | medium |
+| P2-6 | +24 V | power |  | medium |
+| P2-9 | -SENSE | other | SENSE - | medium |
+| P2-10 | 48 V COMMON | ground |  | medium |
+| P2-11 | 48 V COMMON | ground |  | medium |
+| P2-12 | CHASSIS GROUND | ground |  | medium |
+| P2-13 | 24 V COMMON | ground |  | medium |
+| P2-14 | 24 V COMMON | ground |  | medium |
+
+**Straps:** +48V: P2-2 P2-3 · 48V COM: P2-10 P2-11 · +24V: P2-5 P2-6 · 24V COM: P2-13 P2-14
 
 ## Manuals and documents
 

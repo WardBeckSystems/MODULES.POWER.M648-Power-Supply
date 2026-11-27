@@ -1,0 +1,217 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "1970 - M648 - B 648-09-001 - M648 FRAME - CONNECTOR WIRING.jpg",
+ "module": "M648",
+ "applies_to": [
+  "M648"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "648-09-001",
+  "title": "M648 FRAME CONNECTOR WIRING",
+  "date": "1968-05-09",
+  "issue": "1",
+  "drawn": null
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "other",
+   "contacts": 16,
+   "rows": "1-8 opposite 9-16",
+   "view": "rear",
+   "part": null
+  },
+  {
+   "name": "P2",
+   "kind": "other",
+   "contacts": 16,
+   "rows": "1-8 opposite 9-16",
+   "view": "rear",
+   "part": null
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "AC (cable)",
+   "signal": "AC MAINS",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "also": null,
+   "as_drawn": "AC (cable)",
+   "signal": "AC MAINS",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "+SENSE",
+   "signal": "+SENSE",
+   "kind": "other",
+   "port": "SENSE",
+   "polarity": "+"
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "-SENSE",
+   "signal": "-SENSE",
+   "kind": "other",
+   "port": "SENSE",
+   "polarity": "-"
+  },
+  {
+   "connector": "P2",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "+48V",
+   "signal": "+48 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "(strapped to 2)",
+   "signal": "+48 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "(strapped to 11)",
+   "signal": "48 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "COM",
+   "signal": "48 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "(chassis ground symbol)",
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "(strapped to 6)",
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "+24V",
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "(strapped to 14)",
+   "signal": "24 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "24V COM",
+   "signal": "24 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "SENSE",
+   "dir": "control_in",
+   "pins": {
+    "+": "P2-1",
+    "-": "P2-9"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "+48V",
+   "pins": [
+    "P2-2",
+    "P2-3"
+   ],
+   "note": "drawn link"
+  },
+  {
+   "name": "48V COM",
+   "pins": [
+    "P2-10",
+    "P2-11"
+   ],
+   "note": "drawn link"
+  },
+  {
+   "name": "+24V",
+   "pins": [
+    "P2-5",
+    "P2-6"
+   ],
+   "note": "drawn link"
+  },
+  {
+   "name": "24V COM",
+   "pins": [
+    "P2-13",
+    "P2-14"
+   ],
+   "note": "drawn link"
+  }
+ ],
+ "unread": [
+  "DRN. box empty or illegible; CHKD is a signature",
+  "Faint scan: pin numbers read from a zoomed crop, wiring lines clear"
+ ],
+ "confidence": "medium",
+ "notes": "Power supply frame wiring, 'VIEWED FROM REAR OF FRAME'. Two 16-contact D-shaped (keyed) connectors, P1 and P2, each two rows (1-8 opposite 9-16); part number not given, so kind 'other'. P1: AC mains cable to pins 7 and 16; all other P1 pins blank. P2: 1 +SENSE, 9 -SENSE, 2 +48V (linked to 3), 11 COM (linked to 10), 12 to a chassis-ground symbol, 6 +24V (linked to 5), 14 24V COM (linked to 13); 4, 7, 8, 15, 16 blank. SENSE recorded as a control_in port (remote sense leads from the load). Side sketch: M648 to LOAD with +48, +SENSE, -SENSE, 48 COM. NOTES 1: 'DO NOT CONNECT LOAD TO 48V WITH OUT SENSE LEADS ATTACHED.' Title block: Ward-Beck Systems Ltd., size B, 648-09-001, ISS. 1, DATE MAY 9/68 (file name says 1970). No signal pins and no insert."
+}

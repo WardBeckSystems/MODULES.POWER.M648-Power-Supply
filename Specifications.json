@@ -1,0 +1,28 @@
+{
+ "module": "M648",
+ "title": "Five double modules, such as M612, M648, etc each 3.4W inches",
+ "source": {
+  "file": "MANUALS/19xx - M648 - DOC - wbsps - promo - mf6 mounting frame - back.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Finish",
+   "key": "finish",
+   "text": "Natural anodize with WBS green detachable rack trim plates Any combination of the above, with the provision that the total width does not exceed that often single modules: ACCOMMODATES Ten single modules, such as M600, M6OS, etc; each 1.ZW inches"
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "MFR6 Frame receptacle (max.10) MF6-2 - Set of 3 cable brackets MF6-3 Rear Component Tray MF6-4 Rear Cover MFB6-1 Single Module Blank MFB6-2 Double Module Blank MFB6-4 Quadruple Module Blank"
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/19xx - M648 - DOC - wbsps - module - mf6 mounting frame - back.jpg",
+   "page": 1
+  }
+ ]
+}

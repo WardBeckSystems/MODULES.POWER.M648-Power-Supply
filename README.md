@@ -13,6 +13,119 @@ Ward-Beck Systems M648, 1970|3. Wiki page: [M648 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 21 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 95 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [17 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M648 - DOC - wbsps - promo - mf6 mounting frame - back.jpg](MANUALS/19xx%20-%20M648%20-%20DOC%20-%20wbsps%20-%20promo%20-%20mf6%20mounting%20frame%20-%20back.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Finish** | Natural anodize with WBS green detachable rack trim plates Any combination of the above, with the provision that the total width does not exceed that often single modules: ACCOMMODATES Ten single modules, such as M600, M6OS, etc; each 1.ZW inches |
+| **Accessories** | MFR6 Frame receptacle (max.10) MF6-2 - Set of 3 cable brackets MF6-3 Rear Component Tray MF6-4 Rear Cover MFB6-1 Single Module Blank MFB6-2 Double Module Blank MFB6-4 Quadruple Module Blank |
+
+## Circuit description
+
+From [1983 - M648 - Power Supply.pdf](MANUALS/1983%20-%20M648%20-%20Power%20Supply.pdf) pages 7-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The line volt age i $ applied to t,. an s fo,.m e,. Tl via conn ecto,. PI terminal $ 7 and 16, s....itch SWl and p,. 'm a,.y f U$e Fl (2A S6). The u n&quot; egula led dc voltage to,. the op e &quot; at ion oft h e +48 volt,.egul alo&quot; 1$ fu,.ni $h ed by the fu ll-....a ve b,.idg e,.ectlf le,. CRI to CR4 and f il t e,. c apacllo,. C2. Thl $ volt age....h lch is nominally 85 volt $ i$ fused by F2. I t 1$ applied tot h e ecuececo f these,. i e$ pan t,.an $l osto,. Q land to the Input of I h e SA I4-0S8,.e g u la to,. a $$embly.
+
+The un&quot;egulal&quot;d +24 voil$, avail able fo,..-e lay 0,. I&quot;mp ope&quot;at lon, app &quot; &quot;&quot;$ &quot; I ccoo ectcrP2 t&quot;&quot;min,,l s 5, 6 and 13,1 4. Thl $ voltage 1$ d &quot;,.f v&quot;d f,.om the b,.ldge &quot; ee t if l &quot;,. CRS to CR8 and fllte,. cap acl lo,. C3. The +24 vol l$ Is fU $ed by F3 (I A F6).
+
+WARD - • • e l&lt;. V.T....... LTD.
+
+**MFG PART NUMBER**
+
+C. 0.1 u F /400 V Philips 34 U 7104 C2 2800 u F/ l00 V C, 410 uF / 40 V Computami t e Ph:,Jip s
+
+**437 ETG470**
+
+C' 0.04 7 uF / 400 V 34157473
+
+CR 1-C R8 D lode,SllIcon
+
+PIlot Lamp (LED) HLMP 1401 (REO)
+
+Buss. OL 2.0 AGe U AGe LD
+
+~henol ~ 1 59-16
+
+Dale CW_5
+
+t •0
+
+Buss HTA
+
+Aug a t
+
+WBS r e&lt;:ommen d s the use of replacement parts made by the &quot; Pec i fled
+
+manufacturers for continued optimum equipment performance •
+
+**R2 I I**
+
+1.0
+
+r- -R4! I 2,3 I
+
+**I 3.75W I**
+
+10 PCB 9-109 I I
+
+**III**
+
+400.Q.SlJ
+
+**1 I**
+
+5 7 -SENSE
+
+**II SWI**
+
+Fl C2 2800/ 100
+
+**I (I BN**
+
+0 R3 I I 48V COM
+
+**115V AC**
+
+60 Hz
+
+**7 I 2A SB**
+
+1.5 \10,11 1
+
+III I 16 I I) I L.-J m I 12
+
+**F3 I +24V**
+
+lA 5,61
+
+470/40
+
+**I 24V COM**
+
+113,141
+
+**NOTES:**
+
+1. ALL CAPACITORS ARE IN uF
+
+UNLESS OTHERWISE SPECIFIED.
+
+**2. LAST COMPONENT DESIGNATIONS:**
+
+C4,CR8,DS1,F3,P2,Cl,R4,SWl (, r i.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

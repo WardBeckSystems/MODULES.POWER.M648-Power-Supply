@@ -1,0 +1,121 @@
+{
+ "module": "M648",
+ "source": {
+  "file": "MANUALS/1983 - M648 - Power Supply.pdf",
+  "pages": [
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.69,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The line volt age i $ applied to t,. an s fo,.m e,. Tl via conn ecto,. PI terminal $ 7 and 16, s....itch SWl and p,. 'm a,.y f U$e Fl (2A S6). The u n\" egula led dc voltage to,. the op e \" at ion oft h e +48 volt,.egul alo\" 1$ fu,.ni $h ed by the fu ll-....a ve b,.idg e,.ectlf le,. CRI to CR4 and f il t e,. c apacllo,. C2. Thl $ volt age....h lch is nominally 85 volt $ i$ fused by F2. I t 1$ applied tot h e ecuececo f these,. i e$ pan t,.an $l osto,. Q land to the Input of I h e SA I4-0S8,.e g u la to,. a $$embly.",
+    "The un\"egulal\"d +24 voil$, avail able fo,..-e lay 0,. I\"mp ope\"at lon, app \" \"\"$ \" I ccoo ectcrP2 t\"\"min,,l s 5, 6 and 13,1 4. Thl $ voltage 1$ d \",.f v\"d f,.om the b,.ldge \" ee t if l \",. CRS to CR8 and fllte,. cap acl lo,. C3. The +24 vol l$ Is fU $ed by F3 (I A F6).",
+    "WARD - • • e l<. V.T....... LTD."
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "C. 0.1 u F /400 V Philips 34 U 7104 C2 2800 u F/ l00 V C, 410 uF / 40 V Computami t e Ph:,Jip s"
+   ]
+  },
+  {
+   "heading": "437 ETG470",
+   "paragraphs": [
+    "C' 0.04 7 uF / 400 V 34157473",
+    "CR 1-C R8 D lode,SllIcon",
+    "PIlot Lamp (LED) HLMP 1401 (REO)",
+    "Buss. OL 2.0 AGe U AGe LD",
+    "~henol ~ 1 59-16",
+    "Dale CW_5",
+    "t •0",
+    "Buss HTA",
+    "Aug a t",
+    "WBS r e<:ommen d s the use of replacement parts made by the \" Pec i fled",
+    "manufacturers for continued optimum equipment performance •"
+   ]
+  },
+  {
+   "heading": "R2 I I",
+   "paragraphs": [
+    "1.0",
+    "r- -R4! I 2,3 I"
+   ]
+  },
+  {
+   "heading": "I 3.75W I",
+   "paragraphs": [
+    "10 PCB 9-109 I I"
+   ]
+  },
+  {
+   "heading": "III",
+   "paragraphs": [
+    "400.Q.SlJ"
+   ]
+  },
+  {
+   "heading": "1 I",
+   "paragraphs": [
+    "5 7 -SENSE"
+   ]
+  },
+  {
+   "heading": "II SWI",
+   "paragraphs": [
+    "Fl C2 2800/ 100"
+   ]
+  },
+  {
+   "heading": "I (I BN",
+   "paragraphs": [
+    "0 R3 I I 48V COM"
+   ]
+  },
+  {
+   "heading": "115V AC",
+   "paragraphs": [
+    "60 Hz"
+   ]
+  },
+  {
+   "heading": "7 I 2A SB",
+   "paragraphs": [
+    "1.5 \\10,11 1",
+    "III I 16 I I) I L.-J m I 12"
+   ]
+  },
+  {
+   "heading": "F3 I +24V",
+   "paragraphs": [
+    "lA 5,61",
+    "470/40"
+   ]
+  },
+  {
+   "heading": "I 24V COM",
+   "paragraphs": [
+    "113,141"
+   ]
+  },
+  {
+   "heading": "NOTES:",
+   "paragraphs": [
+    "1. ALL CAPACITORS ARE IN uF",
+    "UNLESS OTHERWISE SPECIFIED."
+   ]
+  },
+  {
+   "heading": "2. LAST COMPONENT DESIGNATIONS:",
+   "paragraphs": [
+    "C4,CR8,DS1,F3,P2,Cl,R4,SWl (, r i."
+   ]
+  }
+ ]
+}

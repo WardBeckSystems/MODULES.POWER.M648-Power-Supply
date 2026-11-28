@@ -1,5 +1,5 @@
 # 1970 - M648 - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1970 (module estimate (month))

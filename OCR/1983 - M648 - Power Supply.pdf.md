@@ -1,5 +1,5 @@
 # 1983 - M648 - Power Supply.pdf
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1983 (found in this file: "MANUAL ISSUE IS :// tp MA Y 1983")

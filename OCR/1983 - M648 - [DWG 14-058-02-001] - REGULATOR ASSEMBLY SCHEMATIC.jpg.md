@@ -1,5 +1,5 @@
 # 1983 - M648 - 14-058-02-001 - REGULATOR ASSEMBLY SCHEMATIC.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1983 (found in this file: "JANUARY 1983")

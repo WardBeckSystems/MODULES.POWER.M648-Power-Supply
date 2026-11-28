@@ -1,5 +1,5 @@
 # wbsps - promo - m648 power supply - 002.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** unknown (title block (read by eye))

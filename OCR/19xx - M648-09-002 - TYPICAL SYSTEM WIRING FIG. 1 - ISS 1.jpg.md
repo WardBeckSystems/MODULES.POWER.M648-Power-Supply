@@ -1,5 +1,5 @@
 # 19xx - M648-09-002 - TYPICAL SYSTEM WIRING FIG. 1 - ISS 1.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** unknown (title block (read by eye))

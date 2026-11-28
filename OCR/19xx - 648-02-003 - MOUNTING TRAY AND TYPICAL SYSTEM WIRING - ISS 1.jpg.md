@@ -1,5 +1,5 @@
 # 19xx - 648-02-003 - MOUNTING TRAY AND TYPICAL SYSTEM WIRING - ISS 1.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** unknown (title block (read by eye))

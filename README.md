@@ -1,6 +1,6 @@
 # M648 Power Supply · Power
 
-Ward-Beck Systems M648, 1970|3. Wiki page: [M648 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M648.html)
+Ward-Beck Systems M648, 1970|3. Wiki page: [M648 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M648-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|

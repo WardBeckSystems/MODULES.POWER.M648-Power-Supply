@@ -1,5 +1,5 @@
 # 1970 - M648 - Power Supply-Docs-4.gif
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1970 (module estimate (month))

@@ -1,5 +1,5 @@
 # 1970 - M648 - 14-058-06-001 - REGULATOR ASSEMBLY COMPONENT LAYOUT.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1970 (module estimate (month))

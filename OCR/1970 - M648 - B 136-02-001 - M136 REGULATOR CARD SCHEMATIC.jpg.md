@@ -1,5 +1,5 @@
 # 1970 - M648 - B 136-02-001 - M136 REGULATOR CARD SCHEMATIC.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1970 (module estimate (month))

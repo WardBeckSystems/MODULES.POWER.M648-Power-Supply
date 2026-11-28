@@ -1,5 +1,5 @@
 # 1983 - M648 - P001 - Title Page.jpg
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1983 (found in this file: "MANUAL ISSUE #5 MAY 1983")

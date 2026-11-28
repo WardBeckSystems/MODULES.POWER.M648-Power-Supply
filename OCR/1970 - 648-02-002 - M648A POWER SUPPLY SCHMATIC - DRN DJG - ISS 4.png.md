@@ -1,5 +1,5 @@
 # 1970 - 648-02-002 - M648A POWER SUPPLY SCHMATIC - DRN DJG - ISS 4.png
-Wiki page: [M648](../../../../PAGES/M648.md)
+Wiki page: [M648](../)
 
 
 - **Year:** 1970 (title block date)

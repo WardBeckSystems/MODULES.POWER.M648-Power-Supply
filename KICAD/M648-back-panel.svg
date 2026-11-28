@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1362 909" font-family="Overpass Mono, Consolas, ui-monospace, monospace">
+<title>M648 Power Supply: back panel, rear view of the connectors</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="241.6" y="53.8" font-size="22.0" dominant-baseline="middle" text-anchor="middle" fill="#1F1E1C" font-weight="700">P1 · rear view</text>
+<rect x="171.6" y="103.8" width="140.0" height="693.2" fill="#E9E4D4" stroke="#6D6A63" stroke-width="3.00"/>
+<rect x="181.6" y="376.9" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="208.6" y="390.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">7</text>
+<text x="169.6" y="390.9" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">AC-MAINS</text>
+<rect x="247.6" y="376.9" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="274.6" y="390.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">H</text>
+<rect x="181.6" y="733.4" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="208.6" y="747.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">16</text>
+<text x="169.6" y="747.4" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">AC-MAINS</text>
+<rect x="247.6" y="733.4" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="274.6" y="747.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">T</text>
+<text x="796.0" y="93.3" font-size="22.0" dominant-baseline="middle" text-anchor="middle" fill="#1F1E1C" font-weight="700">P2 · rear view</text>
+<rect x="726.0" y="143.3" width="140.0" height="614.0" fill="#E9E4D4" stroke="#6D6A63" stroke-width="3.00"/>
+<rect x="736.0" y="178.9" width="54.0" height="28.0" fill="#555555" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="192.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">1</text>
+<text x="724.0" y="192.9" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#555555">+SENSE+</text>
+<rect x="802.0" y="178.9" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="192.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">A</text>
+<rect x="736.0" y="218.5" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="232.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">2</text>
+<text x="724.0" y="232.5" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">+48V</text>
+<rect x="802.0" y="218.5" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="232.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">B</text>
+<rect x="736.0" y="258.1" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="272.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">3</text>
+<text x="724.0" y="272.1" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">+48V</text>
+<rect x="802.0" y="258.1" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="272.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">C</text>
+<rect x="736.0" y="337.4" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="351.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">5</text>
+<text x="724.0" y="351.3" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">+24V</text>
+<rect x="802.0" y="337.4" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="351.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">E</text>
+<rect x="736.0" y="376.9" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="390.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">6</text>
+<text x="724.0" y="390.9" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">+24V</text>
+<rect x="802.0" y="376.9" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="390.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">F</text>
+<rect x="736.0" y="495.7" width="54.0" height="28.0" fill="#555555" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="509.7" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">9</text>
+<text x="724.0" y="509.7" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#555555">SENSE-</text>
+<rect x="802.0" y="495.7" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="509.7" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">K</text>
+<rect x="736.0" y="535.3" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="549.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">10</text>
+<text x="724.0" y="549.4" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">48-V-COMMON</text>
+<rect x="802.0" y="535.3" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="549.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">L</text>
+<rect x="736.0" y="574.9" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="588.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">11</text>
+<text x="724.0" y="588.9" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">48-V-COMMON</text>
+<rect x="802.0" y="574.9" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="588.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">M</text>
+<rect x="736.0" y="614.5" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="628.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">12</text>
+<text x="724.0" y="628.5" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">CHASSIS-GROUND</text>
+<rect x="802.0" y="614.5" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="628.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">N</text>
+<rect x="736.0" y="654.1" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="668.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">13</text>
+<text x="724.0" y="668.1" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">24-V-COMMON</text>
+<rect x="802.0" y="654.1" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="668.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">P</text>
+<rect x="736.0" y="693.8" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="763.0" y="707.7" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">14</text>
+<text x="724.0" y="707.7" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">24-V-COMMON</text>
+<rect x="802.0" y="693.8" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="829.0" y="707.7" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">R</text>
+<rect x="40.0" y="844.9" width="24.0" height="24.0" fill="#2E6B34" stroke="none" stroke-width="0.00"/>
+<text x="74.0" y="856.9" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">input</text>
+<rect x="280.0" y="844.9" width="24.0" height="24.0" fill="#1F5F8B" stroke="none" stroke-width="0.00"/>
+<text x="314.0" y="856.9" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">output</text>
+<rect x="520.0" y="844.9" width="24.0" height="24.0" fill="#A52A22" stroke="none" stroke-width="0.00"/>
+<text x="554.0" y="856.9" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">power</text>
+<rect x="760.0" y="844.9" width="24.0" height="24.0" fill="#333333" stroke="none" stroke-width="0.00"/>
+<text x="794.0" y="856.9" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">ground / shield</text>
+<rect x="1000.0" y="844.9" width="24.0" height="24.0" fill="#7A4E2A" stroke="none" stroke-width="0.00"/>
+<text x="1034.0" y="856.9" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">control</text>
+<rect x="1240.0" y="844.9" width="24.0" height="24.0" fill="#555555" stroke="none" stroke-width="0.00"/>
+<text x="1274.0" y="856.9" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">other</text>
+</svg>
